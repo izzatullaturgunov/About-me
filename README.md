@@ -83,13 +83,12 @@
     <hr>
    </body>
 </html>
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Izzatulla Turgunov</title>
-  </head>
-  <body>
+ 
+ 
+ 
+ 
+ 
+ 
     <h4>To contact</h4>
      <ul>
        <li><a href="izzatullo_1">Instagram</a></li>
@@ -117,5 +116,4 @@
      <input type="submit" name="">
      </form>
     </form>
-  </body>
-</html>
+ 
